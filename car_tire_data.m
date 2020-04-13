@@ -1,4 +1,5 @@
 %% Vehicle Parameters
+%-----------------------------------------------------------------------
 rider_mass = 0;     %kg
 vehicle_mass = 388;  %kg
 CG_height = 254;     %mm
@@ -6,6 +7,7 @@ drag_coeff = 1.2;
 front_axle = 1520;   %mm
 rear_axle = 1400;    %mm
 front_area = 1.33;   %m^2
+%----------------------------------------------------------------------
 %% Tire Parameters
 tire_b =  10;
 tire_c = 1.9;
