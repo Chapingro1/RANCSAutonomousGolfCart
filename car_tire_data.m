@@ -1,6 +1,6 @@
 %% Vehicle Parameters
 rider_mass = 80;     %kg
-vehicle_mass = 237;  %kg
+vehicle_mass = 388;  %kg
 CG_height = 254;     %mm
 drag_coeff = 1.2;
 front_axle = 1520;   %mm
